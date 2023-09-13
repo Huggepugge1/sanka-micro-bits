@@ -1,0 +1,8 @@
+\babel@toc {swedish}{}\relax 
+\contentsline {section}{\numberline {1}Bakgrund}{II}{}%
+\contentsline {section}{\numberline {2}Förberedelser}{III}{}%
+\contentsline {subsection}{\numberline {2.1}Välja antalet spelare}{III}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Kontroller för att välja antalet spelare}{III}{}%
+\contentsline {subsection}{\numberline {2.2}Välja position}{III}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Kontroller för att välja position på skeppet}{III}{}%
+\contentsline {section}{\numberline {3}Spelets gång}{IV}{}%
